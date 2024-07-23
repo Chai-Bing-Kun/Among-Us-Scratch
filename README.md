@@ -1,2 +1,2 @@
 # Among-Us-Scratch
-Among Us for Android（scratch ture）
+Among Us for Android（scratch turn）
